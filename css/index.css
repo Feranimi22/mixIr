@@ -125,7 +125,7 @@ body {
 }
 
 .mixtin {
-    background-image: url(/Multimedia/image/hero-1408-450802603f01f53ce29ad0878b92befd56a28a000b43a41b10d0c08595e9daa2.jpg);
+    background-image:  linear-gradient(rgba(5, 8, 11, 0.496)), url(/Multimedia/image/hero-1408-450802603f01f53ce29ad0878b92befd56a28a000b43a41b10d0c08595e9daa2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-block: 3.5rem;
@@ -617,6 +617,7 @@ body {
 .aatat {
     display: flex;
     justify-content: space-evenly;
+    padding-top: 5%;
 
 }
 
@@ -637,6 +638,7 @@ body {
     font-size: 1.3rem;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.371);
+    padding-top: 5%;
 }
 
 .testtt {
