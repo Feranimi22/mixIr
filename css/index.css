@@ -125,7 +125,7 @@ body {
 }
 
 .mixtin {
-    background-image:  linear-gradient(rgba(5, 8, 11, 0.496)), url(/Multimedia/image/hero-1408-450802603f01f53ce29ad0878b92befd56a28a000b43a41b10d0c08595e9daa2.jpg);
+    background-image:linear-gradient(rgba(5, 8, 11, 0.496)), url('../Multimedia/image/hero-1408-450802603f01f53ce29ad0878b92befd56a28a000b43a41b10d0c08595e9daa2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-block: 3.5rem;
@@ -244,7 +244,7 @@ body {
 }
 
 .amous1 {
-    background-image: linear-gradient(rgba(5, 8, 11, 0.496)), url(/Multimedia/image/hero-1408-fd16799514c896c03506d6f5a5d6f769a1d1783bd4f19d09fb77ed2f81f67ce5.jpg);
+    background-image: linear-gradient(rgba(5, 8, 11, 0.496)), url('../Multimedia/image/hero-1408-fd16799514c896c03506d6f5a5d6f769a1d1783bd4f19d09fb77ed2f81f67ce5.jpg');
     width: 95%;
     background-size: cover;
     min-height: 38vh;
@@ -313,7 +313,7 @@ body {
 }
 
 .ammmu {
-    background-image: url(/Multimedia/image/hero-1408-ed8901b5b457559df79c6fd6a0929f2a1f138cd5ce14d9c9fb2c87705a61f7b8.jpg);
+    background-image:linear-gradient(rgba(5, 8, 11, 0.496)), url('../Multimedia/image/hero-1408-ed8901b5b457559df79c6fd6a0929f2a1f138cd5ce14d9c9fb2c87705a61f7b8.jpg');
     width: 95%;
     background-size: cover;
     min-height: 38vh;
@@ -373,7 +373,7 @@ body {
 }
 
 .lub {
-    background-image: url(/Multimedia/image/hero-1408-709484332200ef138fbd00f1b8d9bcd492184cc6741ad98eec2c50deef6f97fc.jpg);
+    background-image:linear-gradient(rgba(5, 8, 11, 0.496)), url('../Multimedia/image/hero-1408-709484332200ef138fbd00f1b8d9bcd492184cc6741ad98eec2c50deef6f97fc.jpg');
     width: 95%;
     background-size: cover;
     min-height: 38vh;
@@ -475,7 +475,7 @@ body {
 }
 
 .mmmmg {
-    background-image: url(/Multimedia/image/studio-1408-f3d57098aa12b4fd9001730d971d0bc2d6771fc1316a649cfae7a84beabab901.jpg);
+    background-image: url('../Multimedia/image/studio-1408-f3d57098aa12b4fd9001730d971d0bc2d6771fc1316a649cfae7a84beabab901.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 95vh;
@@ -690,7 +690,7 @@ body {
 @media (max-width:822px) {
     #puff {
         font-size: 1rem;
-        display: inline-flex;
+        display: inline-block;
         width: 20px;
     }
 
